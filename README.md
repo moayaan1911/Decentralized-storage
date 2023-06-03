@@ -1,9 +1,9 @@
 # PolyCloud
-Deployed at:- 
+Deployed at:- https://polycloud.vercel.app/
 Video Demo:- https://youtu.be/Adh9l1aLv_o
+
 ## Introduction
- <!-- write introcution -->
-    PolyCloud is a decentralized cloud storage platform that allows users to store their files on the blockchain. The platform is built on the Ethereum blockchain and uses the InterPlanetary File System (IPFS) to store the files. The platform is built using React and Solidity along with ThirdWeb.
+PolyCloud is a decentralized cloud storage platform that allows users to store their files on the blockchain. The platform is built on the Ethereum blockchain and uses the InterPlanetary File System (IPFS) to store the files. The platform is built using React and Solidity along with ThirdWeb.
 
 ## Installation
     step 1: git clone
