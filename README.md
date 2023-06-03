@@ -1,37 +1,47 @@
-## Getting Started
+# PolyCloud
+Deployed at:- 
+Video Demo:- https://youtu.be/Adh9l1aLv_o
+## Introduction
+ <!-- write introcution -->
+    PolyCloud is a decentralized cloud storage platform that allows users to store their files on the blockchain. The platform is built on the Ethereum blockchain and uses the InterPlanetary File System (IPFS) to store the files. The platform is built using React and Solidity along with ThirdWeb.
 
-Create a project using this example:
+## Installation
+    step 1: git clone
+    step 2: cd PolyCloud
+    step 3: npm install
+    step 4: npm dev
 
-```bash
-npx thirdweb create --template vite-javascript-starter
-```
+## Tech Stack Used
+ This project is built using the following tech stack:
+    - React
+    - React-Bootstrap
+    - ThirdWeb
+    - Solidity
+    - Remix IDE
+    - 
 
-You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
+## Image of the Project
+![image](./src/pic1.png)
+![image](./src/pic2.png)
+![image](./src/pic3.png)
+![image](./src/pic4.png)
 
-On `src/index.jsx`, you'll find our `ThirdwebProvider` wrapping your app,
-this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
 
-### Deploy to IPFS
+# About the Developer
 
-Deploy a copy of your application to IPFS using the following command:
+Hello everyone, myself **Mohammad Ayaan Siddiqui** from India. I am a Full Stack WEB3 developer and a **DECENTRALIZATION MAXI**. I talk about WEB3, Cryptocurrencies, Javascript and Python and currently learning web3.
 
-```bash
-yarn deploy
-```
+**Currently Learning and Building in React.js, Next.js, Solidity, Golang, Hardhat, Ethers.js, React Native, Tailwind, Html, CSS, Python, etc.**
 
-## Learn More
+<p align="center">
+<img src="./src/profile.jpg" alt="profile" style="height: 400px; width:500px;"/>
+</p>
 
-To learn more about thirdweb, Vite and React, take a look at the following resources:
+If you are interested in either of the topics or building in similar skills, connect with me below:-
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
-- [React documentation](https://reactjs.org/) - learn React.
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+1. ![Alt text](./src/linktree.png "linktree") [My Linktree with ALL SOCIALS](https://linktr.ee/ayaaneth)
+2. ![Alt text](./src/github.png "github") [Connect on Github](https://github.com/moayaan1911)
+3. ![Alt text](./src/linkedin.png "linkedin") [Connect on Linkedin](www.linkedin.com/in/ayaaneth)
+4. ![Alt text](./src/twitter.png "twitter") [Connect on Twitter](https://www.twitter.com/usdisshitcoin)
+5. ![Alt text](./src/telegram.png "telegram") [Connect on Telegram](https://t.me/usdisshitcoin)
+6. ![Alt text](./src/dev.png "dev") [Connect on dev.to](https://dev.to/moayaan1911)
