@@ -29,7 +29,7 @@ function TextLinkExample() {
           <Navbar.Text>
             <a
               className=""
-              href=""
+              href="https://youtu.be/Adh9l1aLv_o"
               rel="noreferrer"
               target="_blank"
               style={{
