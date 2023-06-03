@@ -2,6 +2,7 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App";
 import { ThirdwebProvider } from "@thirdweb-dev/react";
+import { Analytics } from "@vercel/analytics/react";
 const activeChain = "mumbai";
 import "bootstrap/dist/css/bootstrap.min.css";
 const container = document.getElementById("root");
@@ -10,6 +11,7 @@ root.render(
   <React.StrictMode>
     <ThirdwebProvider activeChain={activeChain}>
       <App />
+      <Analytics />
     </ThirdwebProvider>
   </React.StrictMode>
 );
