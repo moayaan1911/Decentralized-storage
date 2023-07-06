@@ -39,6 +39,19 @@ function TextLinkExample() {
             >
               Video Demo
             </a>
+            <a
+              className=""
+              href="https://www.buymeacoffee.com/moayaan.eth/e/148735"
+              rel="noreferrer"
+              target="_blank"
+              style={{
+                color: "white",
+                textDecoration: "none",
+                paddingLeft: "10px",
+              }}
+            >
+              Source Code
+            </a>
           </Navbar.Text>
         </Navbar.Collapse>
       </Container>
